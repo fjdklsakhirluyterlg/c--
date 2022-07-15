@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/mohuasen/c++",
+      "program": "/Users/mohuasen/c++/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
